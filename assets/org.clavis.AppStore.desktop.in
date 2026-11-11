@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=App Store
+Name[zh_CN]=应用商店
+GenericName=Software Store
+GenericName[zh_CN]=软件商店
+Comment=Discover, download and install Linux applications with a macOS-style store
+Comment[zh_CN]=以 macOS 风格发现、下载并安装 Linux 应用
+Exec=@EXEC@
+Icon=org.clavis.AppStore
+Terminal=false
+Categories=System;PackageManager;
+Keywords=app;store;software;install;应用;商店;软件;安装;
+StartupNotify=true
+StartupWMClass=org.clavis.AppStore
